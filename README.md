@@ -70,8 +70,8 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the Repository**
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/mahdimirmojarabian/end-to-end-airflow-databricks-green-manufacturing-pipeline.git
+cd end-to-end-airflow-databricks-green-manufacturing-pipeline
 ```
 
 2. **Environment Configuration**
